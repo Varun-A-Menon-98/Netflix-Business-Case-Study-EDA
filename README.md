@@ -11,7 +11,18 @@ Dive into the world of Netflix through my comprehensive Exploratory Data Analysi
 
 1Uncover patterns, visualize trends, and gain insights into Netflix's content and user reviews.
 ## 📚 Dataset
-Dataset: Explore the dataset located in the "Raw data" directory, providing a rich source for analysis.
+The dataset provided to you consists of a list of all the TV shows/movies available on Netflix:
+
+1.  **Show_id:** Unique ID for every Movie / Tv Show
+2.  **Type:** Identifier - A Movie or TV Show
+3.  **Title:** Title of the Movie / Tv Show
+4.  **Director:** Director of the Movie
+5. **Cast:** Actors involved in the movie/show
+6. **Country:** Country where the movie/show was produced
+7. **Date_added:** Date it was added on Netflix
+8. **Release_year:** Actual Release year of the movie/show
+9. **Rating:** TV Rating of the movie/show
+10. **Duration:** Total Duration - in minutes or number of seasons
 
 ## 🤔 Exploratory Data Analysis
 Key Highlights:
